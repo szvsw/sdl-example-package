@@ -60,7 +60,6 @@ setup(
     extras_require={"dev": dev_requires},
     dependency_links=[],
     test_suite="tests",
-    entry_points="",
     classifiers=[
         # How mature is this project? Common values are
         #   3 - Alpha
